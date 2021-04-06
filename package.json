@@ -1,6 +1,6 @@
 {
-  "name": "react-native-sensitive-info",
-  "version": "6.0.0-alpha.9",
+  "name": "@sampension/react-native-sensitive-info",
+  "version": "6.0.0-alpha.9.sp.12",
   "main": "build/index.js",
   "module": "build/index.es.js",
   "jsnext:main": "build/index.es.js",
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mcodex/react-native-sensitive-info.git"
+    "url": "https://github.com/sampension/react-native-sensitive-info"
   },
   "keywords": [
     "android",
